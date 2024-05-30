@@ -1,0 +1,16 @@
+﻿  Task2.cpp
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(43,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(53,48): warning C4244: -=: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(53,48): warning C4244:         with
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(53,48): warning C4244:         [
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(53,48): warning C4244:             _Ty=int
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(53,48): warning C4244:         ]
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(81,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(82,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(140,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(208,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(209,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(224,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(225,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\InFla\source\repos\Task2\Task2\Task2.cpp(226,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Task2.vcxproj -> C:\Users\InFla\source\repos\Task2\x64\Debug\Task2.exe
